@@ -1,7 +1,7 @@
 const moviesContainer = document.getElementById('movies-container');
 
 const movies = [
-    { title: 'Mario Bross', rating: 4, image: '/assets/img/movie1.jpg' },
+    { title: 'Mario Bross - The Movie', rating: 4, image: '/assets/img/movie1.jpg' },
     { title: 'Guardianes de la Galaxia Vol. 3', rating: 4, image: '/assets/img/movie2.jpg' },
     { title: 'Spider-Man: A través del Spider-Verso', rating: 5, image: '/assets/img/movie3.jpg' },
     { title: 'La Ballena', rating: 5, image: '/assets/img/movie4.jpg' },
